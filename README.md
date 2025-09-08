@@ -17,7 +17,10 @@
   <h2>Connect with Me</h2>
   <p align="left">
 <!--     <a href="https://twitter.com/[Your Twitter Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your Twitter Handle]" height="30" width="40" /></a> -->
+    <a href="mailto:nicky.rindranirina@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="[Your Mail Handle]" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/toky-nicky-rindranirina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Handle]" height="30" width="40" /></a>
+    
+
 <!--     <a href="https://stackoverflow.com/users/[Your StackOverflow Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[Your StackOverflow Handle]" height="30" width="40" /></a>
     <a href="https://instagram.com/[Your Instagram Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[Your Instagram Handle]" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/[Your YouTube Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Your YouTube Handle]" height="30" width="40" /></a> -->
