@@ -1,35 +1,140 @@
+<h1 align="center">Hi 👋, I'm Pendragon</h1>
+<h3 align="center">Backend Developer ( NestJS • Prisma • PostgreSQL)
+| C/C++
+</h3>
 
-<div id="stats">
-  <h2>GitHub Stats</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pendragon46&show_icons=true&theme=radical" alt="Pendragon46's GitHub stats" />
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/Pendragon46">
+    <img src="https://komarev.com/ghpvc/?username=Pendragon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-<div id="languages">
-  <h2>Top Languages</h2>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendragon46&layout=compact&theme=radical" alt="Pendragon46's Top Languages" />
-  </div>
-</div>
+---
 
-<div id="connect">
-  <h2>Connect with Me</h2>
-  <p align="left">
-<!--     <a href="https://twitter.com/[Your Twitter Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your Twitter Handle]" height="30" width="40" /></a> -->
-    <a href="mailto:nicky.rindranirina@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="[Your Mail Handle]" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/toky-nicky-rindranirina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your LinkedIn Handle]" height="30" width="40" /></a>
-    
+## 🚀 About Me
 
-<!--     <a href="https://stackoverflow.com/users/[Your StackOverflow Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="[Your StackOverflow Handle]" height="30" width="40" /></a>
-    <a href="https://instagram.com/[Your Instagram Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[Your Instagram Handle]" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/[Your YouTube Handle]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Your YouTube Handle]" height="30" width="40" /></a> -->
-  </p>
-</div>
+- 💻 Backend developer 
+- 🌱 Currently improving my knowledge of **System Design** and **Software Architecture**
+- ⚡ I enjoy designing clean database schemas and RESTful APIs
+- 🎯 Goal: Build reliable, maintainable, and performant applications
 
-<!--div align="center">
-  
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pendragon46&show_icons=true&theme=tokyonight)](https://github.com/Pendragon46) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pendragon46&layout=compact&theme=tokyonight)](https://github.com/Pendragon46) |
-</div -->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" />
+</p>
+
+### Frontend
+
+
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+---
+
+## 📌 Current Project
+
+### Pinterest Clone
+
+A modern Pinterest-inspired platform built with:
+
+- 🔐 JWT Authentication
+- 📸 Cloudinary Image Upload
+- ❤️ Likes & Comments
+- 👥 Friend System
+- 🔔 Real-time Notifications
+- 🟢 Online Status with WebSockets
+- 🏷 Tags & Search
+- 📄 Pagination
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pendragon46&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendragon46&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Pendragon46&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pendragon46&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pendragon46&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p>
+
+# 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/toky-nicky-rindranirina/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+
+  <a href="mailto:nicky.rindranirina@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+
+  <a href="https://github.com/Pendragon46">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+</p>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
