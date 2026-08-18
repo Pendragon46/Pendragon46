@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pendragon</h1>
-<h3 align="center">Backend Developer ( NestJS • Prisma • PostgreSQL)
-| C/C++
+<h3 align="center">Backend Developer ( NestJS • Prisma ) 
+  | C/C++
 </h3>
 
 <p align="center">
