@@ -57,44 +57,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 📊 DSLR — Exploratory Data Analysis
-
-Data analysis project conducted as part of a team assignment at 42.
-
-- Descriptive statistics and distribution analysis.
-- Exploration of relationships between features.
-- Data visualization using Matplotlib and Seaborn.
-- Python tools: Pandas and NumPy.
-
-### 🖼️ ft_transcendence — Online Art Gallery
-
-Team project focused on developing the backend of an online art gallery.
-
-- Backend development with NestJS and TypeScript.
-- Data modeling with Prisma and PostgreSQL.
-- CRUD APIs and role-based access control (RBAC).
-- Image uploads using Cloudinary.
-- Search with filtering, sorting, and pagination.
-
-### 🌐 ft_irc — IRC Server
-
-IRC server implemented in C++98 as part of a team project.
-
-- TCP sockets and network communication.
-- I/O multiplexing.
-- Channel management according to the IRC protocol specifications.
-
-### 🐳 Inception — Web Infrastructure
-
-Infrastructure project using Docker and Docker Compose.
-
-- Containerized NGINX, WordPress, and MariaDB.
-- Network and volume configuration.
-- TLS configuration.
-
----
 
 ## 📊 GitHub Stats
 
