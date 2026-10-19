@@ -91,9 +91,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/Pendragon46">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-  </a>
 </p>
 
 ---
