@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pendragon</h1>
-<h3 align="center">Backend Developer ( NestJS • Prisma ) 
-  | C/C++
+<h1 align="center">Hi 👋, I'm Toky Nicky Rindranirina</h1>
+
+<h3 align="center">
+  42 Student | Backend Development • Data & AI
 </h3>
 
 <p align="center">
   <a href="https://github.com/Pendragon46">
-    <img src="https://komarev.com/ghpvc/?username=Pendragon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Pendragon46&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -13,10 +14,12 @@
 
 ## 🚀 About Me
 
-- 💻 Backend developer 
-- 🌱 Currently improving my knowledge of **System Design** and **Software Architecture**
-- ⚡ I enjoy designing clean database schemas and RESTful APIs
-- 🎯 Goal: Build reliable, maintainable, and performant applications
+- 🎓 Studying at **42 Antananarivo**, specializing in Data & AI.
+- 💻 Hands-on experience in backend development through team projects.
+- 🗄️ Working with **NestJS, TypeScript, Prisma, and PostgreSQL**.
+- 📊 Exploring data using **Python, Pandas, NumPy, Matplotlib, and Seaborn**.
+- ⚙️ Also experienced in C/C++, Linux, Docker, and Docker Compose.
+- 🎯 Interested in backend development, data analysis, and systems programming.
 
 ---
 
@@ -25,58 +28,80 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,python" alt="C, C++, TypeScript, Python" />
 </p>
 
-### Backend
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" alt="Node.js and NestJS" />
 </p>
 
-### Database
+### Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma" alt="PostgreSQL and Prisma" />
 </p>
 
-### Frontend
-
-
-
-### Tools
+### Data Analysis
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+  <strong>Pandas · NumPy · Matplotlib · Seaborn</strong>
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" alt="Git, GitHub, Docker, Linux" />
 </p>
 
 ---
 
-## 📌 Current Project
+## 📌 Featured Projects
 
-### Pinterest Clone
+### 📊 DSLR — Exploratory Data Analysis
 
-A modern Pinterest-inspired platform built with:
+Data analysis project conducted as part of a team assignment at 42.
 
-- 🔐 JWT Authentication
-- 📸 Cloudinary Image Upload
-- ❤️ Likes & Comments
-- 👥 Friend System
-- 🔔 Real-time Notifications
-- 🟢 Online Status with WebSockets
-- 🏷 Tags & Search
-- 📄 Pagination
+- Descriptive statistics and distribution analysis.
+- Exploration of relationships between features.
+- Data visualization using Matplotlib and Seaborn.
+- Python tools: Pandas and NumPy.
+
+### 🖼️ ft_transcendence — Online Art Gallery
+
+Team project focused on developing the backend of an online art gallery.
+
+- Backend development with NestJS and TypeScript.
+- Data modeling with Prisma and PostgreSQL.
+- CRUD APIs and role-based access control (RBAC).
+- Image uploads using Cloudinary.
+- Search with filtering, sorting, and pagination.
+
+### 🌐 ft_irc — IRC Server
+
+IRC server implemented in C++98 as part of a team project.
+
+- TCP sockets and network communication.
+- I/O multiplexing.
+- Channel management according to the IRC protocol specifications.
+
+### 🐳 Inception — Web Infrastructure
+
+Infrastructure project using Docker and Docker Compose.
+
+- Containerized NGINX, WordPress, and MariaDB.
+- Network and volume configuration.
+- TLS configuration.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pendragon46&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pendragon46&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendragon46&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pendragon46&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
@@ -84,57 +109,33 @@ A modern Pinterest-inspired platform built with:
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Pendragon46&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Pendragon46&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pendragon46&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pendragon46&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🌍 Connect with Me
-
-<p>
-
-# 📫 Contact Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/toky-nicky-rindranirina/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
   </a>
-
+  &nbsp;
   <a href="mailto:nicky.rindranirina@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
   </a>
-
+  &nbsp;
   <a href="https://github.com/Pendragon46">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
   </a>
-</p>
-
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile!
 </p>
